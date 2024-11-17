@@ -1,7 +1,8 @@
-#Social Media Backend API
+
+# Social Media Backend API
 This project is a backend implementation for a social media platform using MongoDB and JavaScript. It supports core functionalities like user registration, friend requests, posts, comments, and a personalized feed.
 
-Features
+## Features
 User Registration: Register and manage user details.
 Friend Requests: Send, receive, accept, or reject friend requests.
 Posts: Create and fetch text-only posts.
